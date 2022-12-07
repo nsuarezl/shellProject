@@ -1,43 +1,4 @@
-/*
- * Copyright (c) 2012 the authors listed at the following URL, and/or
- * the authors of referenced articles or incorporated external code:
- * http://en.literateprograms.org/Shunting_yard_algorithm_(C)?action=history&offset=20080201043325
- * 
- * Permission is hereby granted, free of charge, to any person obtaining
- * a copy of this software and associated documentation files (the
- * "Software"), to deal in the Software without restriction, including
- * without limitation the rights to use, copy, modify, merge, publish,
- * distribute, sublicense, and/or sell copies of the Software, and to
- * permit persons to whom the Software is furnished to do so, subject to
- * the following conditions:
- * 
- * The above copyright notice and this permission notice shall be
- * included in all copies or substantial portions of the Software.
- * 
- * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
- * EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
- * MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
- * IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
- * CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
- * TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
- * SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
- *  
- * Retrieved from: http://en.literateprograms.org/Shunting_yard_algorithm_(C)?oldid=12454
- * 
- * 
- * Copyright (c) 2019 Mohammed Isam [mohammed_isam1984@yahoo.com]
- * 
- * Extensive modifications have been applied to this file to include most of the C
- * language operators and to make this file usable as part of the Layla shell.
- * Please compare with the original file at the above link to see the differences.
- * 
- * UPDATE: the original file doesn't seem to be available anymore, but the archived
- * version can be accessed from here:
- * https://web.archive.org/web/20110718214204/http://en.literateprograms.org/Shunting_yard_algorithm_(C)
- * 
- * For more information, see: https://en.wikipedia.org/wiki/Shunting-yard_algorithm
- * 
- */
+
 
 #include <stdlib.h>
 #include <stdio.h>
